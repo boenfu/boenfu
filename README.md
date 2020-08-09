@@ -1,1 +1,1 @@
-![eafcb393e48e7e12d5a88c1c263d6dfd23ed98fb05425317f6cd1d0ffecb5607.jpg](https://i.loli.net/2020/08/09/s81QnqdZXRGgLfP.jpg)
+![image.png](https://i.loli.net/2020/08/09/46qMKeEYWXrOgyT.png)
