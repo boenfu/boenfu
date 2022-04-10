@@ -16,6 +16,7 @@
 - （WIP） [chuffed-ui](https://github.com/boenfu/chuffed-ui) - ~~（诡计）~~ 多端组件库
 - [hexo-renderer-react-styled](https://github.com/boenfu/hexo-renderer-react-styled) - 使用 React 编写 Hexo 主题的渲染器
 - [hexo-theme-zhihu](https://github.com/boenfu/hexo-theme-zhihu) - 照抄知乎的 Hexo 主题
+- [require-tsx](https://github.com/boenfu/require-tsx) - node 中直接使用 `.tsx` 文件
 - [puppeteer-media-source](https://github.com/boenfu/puppeteer-media-source) - 提取 puppeteer 网页中的视频资源
 
 #### 2021
