@@ -9,14 +9,15 @@
 
 [![Boen's github stats](https://github-readme-stats.vercel.app/api?username=boenfu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-工作外我做过的**可能有趣**但**一定没用**的东西
+工作外我做过的**可能有趣**但**一定没用**的东西 🙊
 
 #### 2022
 
-- （WIP） [chuffed-ui](https://github.com/boenfu/chuffed-ui) - ~~（诡计）~~ 多端组件库
+<!-- - （WIP） [chuffed-ui](https://github.com/boenfu/chuffed-ui) - ~~（诡计）~~ 多端组件库 -->
+
+- [require-tsx](https://github.com/boenfu/require-tsx) - node 中直接引用 `.tsx` 文件
 - [hexo-renderer-react-styled](https://github.com/boenfu/hexo-renderer-react-styled) - 使用 React 编写 Hexo 主题的渲染器
-- [hexo-theme-zhihu](https://github.com/boenfu/hexo-theme-zhihu) - 照抄知乎的 Hexo 主题
-- [require-tsx](https://github.com/boenfu/require-tsx) - node 中直接使用 `.tsx` 文件
+- [hexo-theme-wanghu](https://github.com/boenfu/hexo-theme-wanghu) - 照抄知乎的 Hexo 主题, 名为 "忘乎" ( WIP )
 - [puppeteer-media-source](https://github.com/boenfu/puppeteer-media-source) - 提取 puppeteer 网页中的视频资源
 
 #### 2021
