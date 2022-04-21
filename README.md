@@ -19,6 +19,7 @@
 - [hexo-renderer-react-styled](https://github.com/boenfu/hexo-renderer-react-styled) - 使用 React 编写 Hexo 主题的渲染器
 - [hexo-theme-wanghu](https://github.com/boenfu/hexo-theme-wanghu) - 照抄知乎的 Hexo 主题, 名为 "忘乎" ( WIP )
 - [puppeteer-media-source](https://github.com/boenfu/puppeteer-media-source) - 提取 puppeteer 网页中的视频资源
+- [duck-user](https://github.com/boenfu/duck-user) - 简陋的跨浏览器鸭子用户识别
 
 #### 2021
 
