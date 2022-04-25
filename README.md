@@ -24,6 +24,7 @@
 #### 2021
 
 - [scriptbowl](https://github.com/digshare/scriptbowl) - 云函数脚本管理
+- [laughflow](https://github.com/boenfu/laughflow) - 可扩展的流程引擎
 - [acc](https://boenfu.github.io/acc/) - 小动物象棋
 
 #### 2020
