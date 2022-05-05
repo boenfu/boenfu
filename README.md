@@ -20,6 +20,7 @@
 - [hexo-theme-wanghu](https://github.com/boenfu/hexo-theme-wanghu) - 照抄知乎的 Hexo 主题, 名为 "忘乎" ( WIP )
 - [puppeteer-media-source](https://github.com/boenfu/puppeteer-media-source) - 提取 Puppeteer 网页中的视频资源
 - [duck-user](https://github.com/boenfu/duck-user) - 简陋的跨浏览器鸭子用户识别
+- [use-box](https://github.com/boenfu/use-box) - 没人用的跨组件状态管理 hook
 
 #### 2021
 
@@ -32,7 +33,7 @@
 - [monaco-replay](https://github.com/boenfu/monaco-replay) - 录制与回放 Monaco 中的操作
 - [bezier](https://github.com/uselessrc/bezier) - 在两个 React 组件间画一条贝塞尔曲线
 - [WoolRTC](https://github.com/boenfu/WoolRTC) - 用 Gist 当 WebRTC 信令服务器的玩具
-- [cushax](https://github.com/boenfu/cushax)/[cushax-client](https://github.com/boenfu/cushax-client) - 远程数据自动装卸的 Vuex 库
+- [cushax](https://github.com/boenfu/cushax)/[cushax-client](https://github.com/boenfu/cushax-client) - 与 Vuex 联动的 RPC 库
 
 #### 2019
 
