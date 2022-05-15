@@ -17,7 +17,7 @@
 
 - [require-tsx](https://github.com/boenfu/require-tsx) - Node.js 直接导入 `.tsx` 文件
 - [hexo-renderer-react-styled](https://github.com/boenfu/hexo-renderer-react-styled) - 使用 React 编写 Hexo 主题的渲染器
-- [hexo-theme-wanghu](https://github.com/boenfu/hexo-theme-wanghu) - 照抄知乎的 Hexo 主题, 名为 "忘乎" ( WIP )
+- [hexo-theme-wanghu](https://github.com/boenfu/hexo-theme-wanghu) - 照抄知乎的 Hexo 主题, 名为 "忘乎"
 - [puppeteer-media-source](https://github.com/boenfu/puppeteer-media-source) - 提取 Puppeteer 网页中的视频资源
 - [duck-user](https://github.com/boenfu/duck-user) - 简陋的跨浏览器鸭子用户识别
 - [use-box](https://github.com/boenfu/use-box) - 没人用的跨组件状态管理 hook
